@@ -1,2 +1,2 @@
 # Diploma
-Code for diploma.
+Filesystem driver in user-mode. Using Dokany library.
